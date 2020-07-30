@@ -1,0 +1,7 @@
+C:\Users\Fred's Machine\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\Fred's Machine\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\Fred's Machine\source\repos\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\Fred's Machine\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csprojAssemblyReference.cache
+C:\Users\Fred's Machine\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Fred's Machine\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\Fred's Machine\source\repos\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
